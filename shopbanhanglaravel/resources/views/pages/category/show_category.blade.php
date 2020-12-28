@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
-<!--<div class="features_items">
+<div class="features_items">
                        
                        <div class="fb-like" data-href="{{$url_canonical}}" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="false"></div>
                         @foreach($category_name as $key => $name)
