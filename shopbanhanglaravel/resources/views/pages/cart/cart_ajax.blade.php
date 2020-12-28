@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
 
- <!--<section id="cart_items">
+ <section id="cart_items">
 		<div class="container">
 			
 			  @if(session()->has('message'))
