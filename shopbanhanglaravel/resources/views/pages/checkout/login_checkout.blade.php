@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
 
-<!--	<section id="form">
+<section id="form">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-1">
