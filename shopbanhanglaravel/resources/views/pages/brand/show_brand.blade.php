@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
- <!-- <div class="features_items">
+ <div class="features_items">
 
                         @foreach($brand_name as $key => $name)
                        
