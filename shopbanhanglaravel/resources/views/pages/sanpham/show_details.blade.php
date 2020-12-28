@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
 @foreach($product_details as $key => $value)
-<!-- <div class="product-details">
+<div class="product-details">
 						<div class="col-sm-5">
 							<div class="view-product">
 								<img src="{{URL::to('/public/uploads/product/'.$value->product_image)}}" alt="" />
